@@ -2,12 +2,12 @@ The main functions are provided by Nonlinear Analysis Core, Center for Human Mov
 
 This is a list of the included functions and the full name of the methods.
 
-- **SSR_lecture_code** - code to accompany the powerpoint slides on state space reconstruction.
-- **comet3_2** - is equivalent to standard matalab comet3, but implements a pause in the drawing such that the trajectory evolves slower.
-- **AMI_Stergiou** - this is a histogram-based method of Average Mutual Information that is used to find a time lag using average mutual information for state space reconstruction.
-- **AMI_Thomas** - this is a kernel density-based method of Average Mutual Information that is used to find a time lag for state space reconstruction.
-- **ChaosLibrary** - this uses a number of systems of differential equations that can be used to create chaotic attractors.
-- **FNN** - calculates an embedding dimension for state space reconstruction using the method of False Nearest Neighbors.
+- **LyE_R** - Calculates the Largest Lyapunov Exponent using the method published by Rosenstein et al. (1993).
+- **LyE_W_NK** - Calculates the Largest Lyapunov Exponent using the method published by Wolf et al. (1985). Modified by Nikita to include visualization of trajectories.
+- **Ch4_LyE_estimation_Wulf.m** - Example code for applying Wulf's algorithm in various time series (damped sine, Lorenz, hip joint angle during walking).
+- **Ch4_LyE_estimation_Rosenstein.m** -  Example code for applying Rosensteing's algorithm in various time series.
+- **A4_LyE_hip_data.mat** - sample time series of hip joint angle in sagittal plane during walking on a treadmill. Sampling rate 60Hz.
+
 
 COPYRIGHT
 
