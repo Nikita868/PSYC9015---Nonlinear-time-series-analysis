@@ -1,4 +1,4 @@
-The main functions are provided by Nonlinear Analysis Core, Center for Human MovementVariability, University of Nebraska at Omaha. [link to their github](https://github.com/Nonlinear-Analysis-Core/NONANLibrary) but in some cases were modified by me (noted below).
+The main functions are provided by Nonlinear Analysis Core, Center for Human MovementVariability, University of Nebraska at Omaha. Here is the [link to their github](https://github.com/Nonlinear-Analysis-Core/NONANLibrary) but in some cases were modified by me (noted below).
 
 This is a list of the included functions and the full name of the methods.
 
