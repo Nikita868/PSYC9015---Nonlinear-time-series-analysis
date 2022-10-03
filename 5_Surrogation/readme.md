@@ -5,6 +5,7 @@ This is a list of the included functions and the full name of the methods.
 - **Ent_Samp** - Used to calculate the Sample Entropy of a time series.
 - **Surr_findrho** - This should be used to find thee optimal noise level used in creating a Pseudo Period surrogate time series.
 - **Surr_PseudoPeriodic** - This is used to find a Pseudo Period surrogate time series using the result from Surr_findrho.
+- **Surr_PseudoPeriodic_vis** - Same as **Surr_PseudoPeriodic** but includes a visualization of the algorithm to sample points from the attractor.
 - **Surr_Theiler** - This can be used to create different surrogates by the methods published by Theiler. *I modified the original function to include the iaaft shuffling for Algorithm 2. The original function simply did not have Algorithm 2 implemented.*
 - **iaaft** - Performs iterative amplitude-adjusted fourier transform. The functions is from the Multifractal toolbox by E. Ihlen available [here](https://www.ntnu.edu/inb/geri/software)
 
