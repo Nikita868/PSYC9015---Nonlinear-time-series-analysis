@@ -149,7 +149,7 @@ max_scale = 10;
 m = 2;
 [ RCMSE, CMSE, MSE, MSFE, GMSE ] = Ent_MS_Plus(x,max_scale,m,.2);
 
-
+% Plot MSE result
 plot(1:max_scale,RCMSE)
 xlabel('Scale')
 ylabel('Sample Entropy')
