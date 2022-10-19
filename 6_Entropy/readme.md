@@ -6,6 +6,7 @@ This is a list of the included functions and the full name of the methods.
 - **Ent_Symbolic**, Used to calculate the Symbolic Entropy of a time series.
 - **Ent_Permu**, Used to calculate the Permutation Entropy of a time series using a log of base 2.
 - **Ent_MS_Plus**, Used to calculate the Refined Composite Multiscale Sample Entropy, Composite Multiscale Entropy, Multiscale Entropy, Multiscale Fuzzy Entropy, and Generalized Multiscale Entropy of a time series.
+- **Entropy_codes** - sample code to use the entropy functions using sample data included in this folder.
 
 COPYRIGHT
 
